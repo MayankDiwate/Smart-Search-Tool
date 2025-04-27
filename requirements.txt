@@ -4,7 +4,7 @@ requests
 langchain
 langchain-community
 langchain-huggingface
-pinecone-client
+pinecone
 sentence-transformers
 pydantic
 python-dotenv
